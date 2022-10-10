@@ -4205,7 +4205,7 @@ Categories: `LSP`
 
 > SQL language server written in Go.
 
-Homepage: [https://github.com/lighttiger2505/sqls](https://github.com/lighttiger2505/sqls)  
+Homepage: [https://github.com/mikeismert/sqls](https://github.com/mikeismert/sqls)  
 Languages: `SQL`  
 Categories: `LSP`  
 
